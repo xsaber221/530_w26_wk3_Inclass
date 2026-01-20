@@ -1,0 +1,11 @@
+h1 {color: blue;
+    background-color: limegreen;
+}
+h4{color: red;
+    background-color: yellow;
+}
+h4:hover {
+    color: white;
+    background-color: black;
+size-adjust: inherit;
+}
